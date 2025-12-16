@@ -124,8 +124,34 @@
 //     }
 // }
 
-//Ikinchi vazifa !!!
-// for (var i = 1; i <= 100; i++) {
+// Ikinchi vazifa !!!
 
+// var sum = 0
+// for (var i = 1; i <= 100; i++) {
+//     sum = sum + i;
+//     // sum += i;
 // }
+// alert(sum)
+
+
+// while (num <= 100){
+//     result = result + num;
+//     num++;
+// }
+// console.log(result);
+
+
+//Arrtays;
+
+//let sign = "*";
+//let names = ["ahror", "madina", "botir"]
+
+// console.log(names[1]);
+
+//Variable
+
+// for (let i = 1; i <= 100; i++) {
+//     document.write(sing.repeat(i) + "<br>");
+// }
+
 
